@@ -17,3 +17,4 @@ I have a lot of point of interest like musique, skate, IT, my dog and many more.
 ## 🛠 Skills
 Python, HTML, CSS...
 
+![Logo](https://cdn.discordapp.com/attachments/1300728292977938472/1310573467070103573/Flappy.png?ex=6745b627&is=674464a7&hm=d9aaa5059516b6cc038b2081345c605aabe7ebc0bd1f4aad737e601d1ade5fa0&)
