@@ -14,8 +14,6 @@ I have a lot of point of interest like musique, skate, IT, my dog and many more.
 
 
 
-## 🛠 Skills
-Python, HTML, CSS...
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayan-tarbi&label=Profile%20views&color=0e75b6&style=flat" alt="rayan-tarbi" /> </p>
 
