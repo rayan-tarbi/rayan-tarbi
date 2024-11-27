@@ -29,4 +29,3 @@ Python, HTML, CSS...
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rayan-tarbi&" alt="rayan-tarbi" /></p>
 
 
-![Logo](https://cdn.discordapp.com/attachments/1300728292977938472/1310573931924815913/image.png?ex=6745b696&is=67446516&hm=41d383813562eacd5f3faa44a29d047ec501eb5879fe57673af91adc9285347f&)
