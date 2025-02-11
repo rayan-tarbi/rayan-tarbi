@@ -12,7 +12,7 @@ J'ai plusieurs centres d'intêrets comme la musique, le skate, l'informatique, m
 I have a lot of point of interest like music, skate, IT, my dog and many more.
 
 
-
+https://tarbi-rayan.site/
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayan-tarbi&label=Profile%20views&color=0e75b6&style=flat" alt="rayan-tarbi" /> </p>
@@ -24,6 +24,5 @@ I have a lot of point of interest like music, skate, IT, my dog and many more.
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rayan-tarbi&show_icons=true&locale=en&layout=compact" alt="rayan-tarbi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rayan-tarbi&" alt="rayan-tarbi" /></p>
 
 
